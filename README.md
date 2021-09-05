@@ -1,5 +1,5 @@
 - Hi, I’m @peterclifton
-- I’m interested in *data analysis*
+- I’m interested in **data analysis**
 
 
 <!---
