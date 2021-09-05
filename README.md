@@ -1,4 +1,4 @@
-- Hi, I’m @peterclifton
+- Hi, I’m **@peterclifton**
 - I’m interested in **data analysis**
 
 
